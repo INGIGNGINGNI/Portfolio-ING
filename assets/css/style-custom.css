@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    font-family: 'Kanit', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container {
+    max-width: 1400px;
+}
+h1 {
+    font-size: 52px;
+    font-weight: 400;
+}
+h2 {
+    font-size: 36px;
+    font-weight: 400;
+}
+h3 {
+    font-size: 28px;
+    font-weight: 400;
+}
+h4 {
+    font-size: 24px;
+    font-weight: 400;
+}
+h5 {
+    font-size: 20px;
+    font-weight: 400;
+}
+h6 {
+    font-size: 18px;
+    font-weight: 400;
+}
+p {
+    font-size: 16px;
+    color: #434343;
+}
+a.navbar-brand {
+    color: #434343;
+    font-weight: 500;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-inline: 30px;
+}
+.navbar-nav a.nav-link {
+    font-size: 18px;
+}
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #434343;
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+.nav-link:hover, .nav-link:focus, .nav-link.active {
+    color: #259e90;
+}
+h2.intro-name {
+    font-weight: 600;
+    color: #eeba3f; 
+}
+h1.txt-type {
+    color: #434343;
+    font-weight: 600;
+}
+.intro-left-col {
+    display: flex;
+    justify-content: center;
+    margin: 60px auto;
+}
+.intro-right-col {
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+}
+.btn-main {
+    color: #fff;
+    background: rgb(87,176,171);
+    background: linear-gradient(90deg, rgba(87,176,171,1) 0%, rgba(37,158,144,1) 100%);
+    border: none;
+    border-radius: 25px;
+    padding: 10px 40px;
+    box-shadow: 15px 15px 20px 0px rgba(37,158,144,0.2);
+}
+.btn-second {
+    color: #fff;
+    background: rgb(252,177,0);
+    background: linear-gradient(90deg, rgba(252,177,0,1) 0%, rgba(238,186,63,1) 100%);
+    border: none;
+    border-radius: 25px;
+    box-shadow: 15px 15px 20px 0px rgba(252,177,0,0.2);
+}
+.btn-main:hover, .btn-second:hover {
+    color: #fff;
+    opacity: .8;
+}
+li {
+    list-style: none;
+}
+ul.info li {
+    font-size: 18px;
+}
+li.paragraph {
+    padding-bottom: 10px;
+}
+img.intro-img {
+    width: 400px;
+}
+.owl-carousel .owl-item img {
+    width: 50% !important;
+}
+.owl-carousel .owl-stage-outer {
+    position: relative;
+    overflow: hidden !important;
+    height: 250px;
+    display: grid;
+    align-content: center;
+}
+.card {
+    width: 180px;
+    height: 180px;
+    background-color: #fff;
+    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.2);
+    border-radius: 20px;
+    border: none;
+}
+.card-title {
+    text-align: center;
+    padding: 15px 0 0 0;
+}
+.owl-nav, .owl-dots {
+    display: none;
+}
+h3.card-title {
+    color: #259e90;
+    font-weight: 500;
+}
+h3.card-title:hover {
+    color: #eeba3f;
+}
