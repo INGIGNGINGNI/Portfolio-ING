@@ -13,12 +13,12 @@
                         <li class="paragraph"><i class="fa fa-calendar-check"
                                 style="color: #259e90;"></i>&nbsp;&nbsp;&nbsp;20 March, 2001</li>
                         <li class="paragraph"><i class="fa fa-university"
-                                style="color: #259e90;"></i>&nbsp;&nbsp;&nbsp;Thanksin Universiry</li>
+                                style="color: #259e90;"></i>&nbsp;&nbsp;&nbsp;Thanksin University</li>
                         <li class="paragraph"><i class="fa fa-home"
                                 style="color: #259e90;"></i>&nbsp;&nbsp;&nbsp;Phattalung, Thailand</li>
                     </ul>
-                    <a href="" class="btn btn-main">About me more&nbsp;&nbsp;&nbsp;<i
-                            class="fa fa-greater-than"></i></a>
+                    <a href="" class="btn btn-main"><i class="fa fa-download"></i>&nbsp;&nbsp;&nbsp;Download Resume</a>
+                    <a href="" class="btn about-me-more">About me more&nbsp;&nbsp;&nbsp;<i class="fa fa-arrow-right"></i></a>
                 </div>
             </div>
         </div>
