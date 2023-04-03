@@ -12,10 +12,13 @@
             </button>
             <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                    <a class="nav-link active" href="#">Home</a>
-                    <a class="nav-link" href="#">Profile</a>
-                    <a class="nav-link" href="#">Project</a>
-                    <a class="nav-link btn btn-second" href="#">Contact</a>
+                    <a class="nav-link active" href="#home">หน้าแรก</a>
+                    <a class="nav-link" href="#skills">ทักษะ</a>
+                    <a class="nav-link" href="#work-ex">การทำงาน</a>
+                    <a class="nav-link" href="#project">ผลงาน</a>
+                    <a class="nav-link" href="#academic">การแข่งขันวิชาการ</a>
+                    <a class="nav-link" href="#activities">กิจกรรม</a>
+                    <a class="nav-link btn btn-second" href="#contact">ติดต่อ</a>
                 </div>
             </div>
         </div>

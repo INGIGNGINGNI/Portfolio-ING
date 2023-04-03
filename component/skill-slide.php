@@ -1,7 +1,7 @@
-<div class="container mt-3">
+<div class="container mt-3" id="skills">
     <div class="row">
         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 p-0">
-            <h2>Skill</h2>
+            <h2>ทักษะภาษาและซอฟต์แวร์</h2>
             <div class="underline"></div>
             <div class="d-flex justify-content-center">
                 <div class="owl-carousel owl-theme">
@@ -61,6 +61,18 @@
                                         <img src="assets/icon/bootstrap.png" alt="skill-5">
                                     </div>
                                     <h5 class="card-title">Bootstrap</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item ps-3">
+                        <div class="block-card">
+                            <div class="card">
+                                <div class="card-body">
+                                    <div class="d-flex justify-content-center mt-4">
+                                        <img src="assets/icon/github.png" alt="skill-5">
+                                    </div>
+                                    <h5 class="card-title">Github</h5>
                                 </div>
                             </div>
                         </div>
