@@ -4,7 +4,7 @@
             <figure class="snip1401">
                 <img src="assets/image/project/prototype/prototype-1.png" alt="prj-1" />
                 <figcaption>
-                    <p>ต้นแบบเว็บไซต์ที่ปรึกษากฎหมายเมริท</p>
+                    <p>ออกแบบ Prototype ตาม Requirement ของลูกค้า ซึ่งลูกค้านั้นยังไม่เคยมีเว็บไซต์เป็นของตัวเอง</p>
                 </figcaption>
             </figure>
             <div class="d-flex justify-content-between align-items-center">
@@ -19,7 +19,7 @@
             <figure class="snip1401">
                 <img src="assets/image/project/prototype/prototype-2.png" alt="prj-2" />
                 <figcaption>
-                    <p>ต้นแบบแอปพลิเคชันการบริหารงานการศึกษา คณะแพทยศาสตร์ มหาวิทยาลัยมหิดล</p>
+                    <p>ออกแบบ Prototype ตาม Requirement ของลูกค้า</p>
                 </figcaption>
             </figure>
             <div class="d-flex justify-content-between align-items-center">
@@ -34,7 +34,7 @@
             <figure class="snip1401">
                 <img src="assets/image/project/prototype/prototype-3.png" alt="prj-3" />
                 <figcaption>
-                    <p>ต้นแบบเว็บไซต์ห้องสมุดกรมธนารักษ์</p>
+                    <p>ออกแบบ Prototype ตาม Requirement ของลูกค้า</p>
                 </figcaption>
             </figure>
             <div class="d-flex justify-content-between align-items-center">
@@ -49,7 +49,7 @@
             <figure class="snip1401">
                 <img src="assets/image/project/prototype/prototype-4.png" alt="prj-4" />
                 <figcaption>
-                    <p>ต้นแบบเว็บไซต์สำนักงาน ป.ป.ส.อาเซียน</p>
+                    <p>ดำเนินการตั้งแต่ขั้นตอนการวิเคราะห์ระบบ ตลอดจนการออกแบบ Prototype</p>
                 </figcaption>
             </figure>
             <div class="d-flex justify-content-between align-items-center">
@@ -64,7 +64,7 @@
             <figure class="snip1401">
                 <img src="assets/image/project/prototype/prototype-5.png" alt="prj-5" />
                 <figcaption>
-                    <p>ต้นแบบเว็บไซต์สถาบันพระบรมราชชนก กระทรวงสาธารณสุข</p>
+                    <p>ดำเนินการตั้งแต่ขั้นตอนการวิเคราะห์ระบบ ตลอดจนการออกแบบ Prototype</p>
                 </figcaption>
             </figure>
             <div class="d-flex justify-content-between align-items-center">

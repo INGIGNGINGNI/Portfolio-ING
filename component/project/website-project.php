@@ -4,7 +4,7 @@
             <figure class="snip1401">
                 <img src="assets/image/project/web/web-1.png" alt="prj-1" />
                 <figcaption>
-                    <p>เว็บแอปพลิเคชันเพื่อการวินิจฉัยโรคในไม้ประดับ</p>
+                    <p>ช่วยวินิจฉัยโรคในไม้ประดับพร้อมแนะนำ วิธีการรักษาเบื้องต้นพัฒนาโดย PHP HTML Bootstrap 5 JS</p>
                 </figcaption>
             </figure>
             <div class="d-flex justify-content-between align-items-center">
@@ -19,7 +19,7 @@
             <figure class="snip1401">
                 <img src="assets/image/project/web/web-2.png" alt="prj-2" />
                 <figcaption>
-                    <p>Green House เว็บไซต์ให้ความรู้เกี่ยวกับต้นไม้ฟอกอากาศ</p>
+                    <p>พัฒนาโดย PHP HTML Bootstrap 4 JS</p>
                 </figcaption>
             </figure>
             <div class="d-flex justify-content-between align-items-center">
@@ -34,7 +34,7 @@
             <figure class="snip1401">
                 <img src="assets/image/project/web/web-3.png" alt="prj-3" />
                 <figcaption>
-                    <p>Freshmen Vote เว็บไซต์ลงคะแนนเสียงผู้เข้าประกวด</p>
+                    <p>ช่วยอำนวยความสะดวกให้แก่นิสิต พัฒนาโดย PHP HTML Bootstrap 4</p>
                 </figcaption>
             </figure>
             <div class="d-flex justify-content-between align-items-center">
@@ -49,7 +49,7 @@
             <figure class="snip1401">
                 <img src="assets/image/project/web/web-6.png" alt="prj-6" />
                 <figcaption>
-                    <p>แอปพลิเคชันให้ความรู้เกี่ยวกับโรคในไม้ประดับ</p>
+                    <p>พัฒนาโดย Flutter และใช้ฐานข้อมูล Firebase</p>
                 </figcaption>
             </figure>
             <div class="d-flex justify-content-between align-items-center">
@@ -64,7 +64,7 @@
             <figure class="snip1401">
                 <img src="assets/image/project/web/web-7.png" alt="prj-7" />
                 <figcaption>
-                    <p>เว็บไซต์สำหรับการขายต้นไม้และกระถางต้นไม้</p>
+                    <p>พัฒนาโดยใช้ Wordpress</p>
                 </figcaption>
             </figure>
             <div class="d-flex justify-content-between align-items-center">
@@ -79,7 +79,7 @@
             <figure class="snip1401">
                 <img src="assets/image/project/web/web-8.png" alt="prj-8" />
                 <figcaption>
-                    <p>ระบบจัดการคลังสินค้าร้านทรายขาวการไฟฟ้า อ.คลองท่อม จ.กระบี่</p>
+                    <p>พัฒนาโดยใช้ Wordpress</p>
                 </figcaption>
             </figure>
             <div class="d-flex justify-content-between align-items-center">
@@ -94,7 +94,7 @@
             <figure class="snip1401">
                 <img src="assets/image/project/web/web-4.png" alt="prj-4" />
                 <figcaption>
-                    <p>เว็บไซต์ที่ปรึกษากฎหมายเมริท</p>
+                    <p>พัฒนาเป็น Demo web โดย HTML Bootstrap 4</p>
                 </figcaption>
             </figure>
             <div class="d-flex justify-content-center align-items-center">
@@ -109,7 +109,7 @@
             <figure class="snip1401">
                 <img src="assets/image/project/web/web-5.png" alt="prj-5" />
                 <figcaption>
-                    <p>เว็บไซต์สำนักงาน ป.ป.ส.อาเซียน</p>
+                    <p>พัฒนาเป็น Demo web โดย HTML Bootstrap 4 JS</p>
                 </figcaption>
             </figure>
             <div class="d-flex justify-content-center align-items-center">

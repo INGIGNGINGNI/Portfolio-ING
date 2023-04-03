@@ -55,7 +55,7 @@ a.navbar-brand {
     font-weight: 500;
 }
 .navbar-expand-lg .navbar-nav .nav-link {
-    padding-inline: 30px;
+    padding-inline: 15px;
 }
 .navbar-nav a.nav-link {
     font-size: 18px;
@@ -229,6 +229,14 @@ h5.card-title {
     object-fit: cover;
     border-radius: 20px;
 }
+.bg-text-main {
+    color: #fff;
+    background: linear-gradient(90deg, rgba(87,176,171,1) 0%, rgba(37,158,144,1) 100%);
+    border: none;
+    border-radius: 25px;
+    padding: 10px 10px;
+    margin: auto 150px;
+}
 
 /* ======================================= */
 .snip1401 {
@@ -334,11 +342,106 @@ h5.card-title {
 }
 /* ======================================= */
 
-.bg-text-main {
-    color: #fff;
-    background: linear-gradient(90deg, rgba(87,176,171,1) 0%, rgba(37,158,144,1) 100%);
-    border: none;
-    border-radius: 25px;
-    padding: 10px 10px;
-    margin: auto 150px;
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 320px) and (max-width: 576px) {
+    h1 {
+        font-size: 34px;
+        font-weight: 600;
+    }
+    h2 {
+        font-size: 28px;
+        font-weight: 600;
+    }
+    h3 {
+        font-size: 24px;
+        font-weight: 500;
+    }
+    h4 {
+        font-size: 20px;
+        font-weight: 400;
+    }
+    h5 {
+        font-size: 18px;
+        font-weight: 400;
+    }
+    h6 {
+        font-size: 16px;
+        font-weight: 400;
+    }
+    p {
+        font-size: 14px;
+        color: #434343;
+    }
+    img.intro-img {
+        width: 100%;
+    }
+    .center {
+        display: flex;
+        justify-content: center;
+    }
+    ul.info li {
+        font-size: 16px;
+    }
+    .tab-show {
+        display: none;
+    }
+    .accordion-body {
+        padding: 0;
+    }
+    .snip1401 {
+        position: relative;
+        overflow: hidden;
+        margin: 10px;
+        min-width: 230px;
+        max-width: 90%;
+        max-height: 220px;
+        width: 100%;
+        color: #000000;
+        text-align: right;
+        font-size: 16px;
+        background-color: #000000;
+        border-radius: 20px;
+        box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
+    }
+    .bg-text-main {
+        margin: 0;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
 }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+    .tab-show {
+        display: none;
+    }
+    .bg-text-main {
+        margin: 0;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    .accordion-show {
+        display: none;
+    }
+ }
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    .accordion-show {
+        display: none;
+    }
+ }
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+    .accordion-show {
+        display: none;
+    }
+ }

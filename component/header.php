@@ -1,5 +1,5 @@
 <div class="container">
-    <nav class="navbar navbar-expand-lg ">
+    <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container-fluid">
             <a class="navbar-brand" href="#">
                 <img src="assets/icon/icon-me.png" alt="Logo" width="40"
@@ -18,7 +18,7 @@
                     <a class="nav-link" href="#project">ผลงาน</a>
                     <a class="nav-link" href="#academic">การแข่งขันวิชาการ</a>
                     <a class="nav-link" href="#activities">กิจกรรม</a>
-                    <a class="nav-link btn btn-second" href="#contact">ติดต่อ</a>
+                    <a class="nav-link" href="#contact">ติดต่อ</a>
                 </div>
             </div>
         </div>

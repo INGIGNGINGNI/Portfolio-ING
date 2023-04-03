@@ -7,10 +7,17 @@ $('.owl-carousel').owlCarousel({
     responsive:{
         0:{
             items:1,
-            nav:true
+            nav:true,
+            margin:0,
         },
-        576:{
+        375:{
             items:2,
+            margin: 100,
+            nav:false
+        },
+        425:{
+            items:2,
+            margin:50,
             nav:false
         },
         768:{
